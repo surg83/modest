@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project id="IDPROJECT">
+	<name>New project</name>
+	<goal id="IDGOAL">
+		<name>Goal</name>
+	</goal>
+	<section id="IDSECTION1">
+		<name>Functional requirements</name>
+	</section>
+	<section id="IDSECTION2">
+		<name>Non-functional requirements</name>
+	</section>
+</project>
